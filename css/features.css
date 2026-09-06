@@ -3,9 +3,11 @@
     gap: 24px;
 }
 
+
 .features > .container > ul > li {
-    width: calc((1158px - 24px * 3) / 4);
+    width: calc((100% - 24px * 3) / 4);
 }
+
 
 .features h3 {
     font-weight: 500;
@@ -15,6 +17,7 @@
     color: #2e2f42;
     margin-bottom: 8px;
 }
+
 
 .features p {
     font-size: 16px;
